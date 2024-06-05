@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/yeahwu/v2ray-wss/main/tcp-wss.sh && bash 
 
 **便宜VPS推荐：** https://hostalk.net/deals.html
 
-![image](https://github.com/yeahwu/v2ray-wss/assets/13328328/99ce2c9b-4e00-490c-8469-acb65174c912)
+![image](https://github.com/jgsports/v2ray-wss/assets/13328328/99ce2c9b-4e00-490c-8469-acb65174c912)
 
 已测试系统如下：
 

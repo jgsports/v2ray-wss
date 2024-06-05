@@ -61,9 +61,10 @@ cat >/usr/local/etc/xray/config.json<<EOF
                 "security": "reality",
                 "realitySettings": {
                     "show": false,
-                    "dest": "www.amazon.com:443",
+                    "dest": "www.vmware.com:443",
                     "xver": 0,
                     "serverNames": [
+                        "www.vmware.com",
                         "www.amazon.com",
                         "addons.mozilla.org",
                         "www.un.org",
